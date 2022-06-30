@@ -1,0 +1,39 @@
+/* Style the body */
+.body-style {
+    background-image: url("img/landscape.jpeg"); /* Change background img */
+    background-repeat:no-repeat;
+    background-position: left top;
+}
+/*
+Multi
+line comment
+*/
+.h1 style {
+    text align: centre;
+}
+.p style {
+    font-family: "Sofia", sans-serif;
+    font-size: 50px;
+    text-align: center;
+   /* text-decoration-line: line-through;*/
+   /* text-decoration-color: black; */
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    line-height: 1.5px;
+    word-spacing: 5px;
+    text-shadow: 2px 2px red;
+}
+.border-style1{
+    
+    border-style: dotted;
+    border-width: 20px 5px 2px 1px;
+    border-color:blue;
+    outline: green solid 1px;
+    margin-bottom: 15px;
+    padding: 0 0 0 50%;                                                                                                                                                                 
+}
+.border-style2{
+border-style: double;
+font-style: italic;
+font-weight: bold;
+}
