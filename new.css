@@ -1,52 +1,25 @@
 /* style the body */
+.body-style {
+    background-image: url("img/landscape.jpeg"); /*change background image*/
+    background-color: aqua; /*change background color*/
+    background-repeat: no-repeat;
 
-
-
-
+}
 /*Multi
 line 
 comment*/
 .h1-style{
     text-align: center;
 }
+.p style{
+    font-family: Georgia, serif;
+    font: 50px;
+    text-align: center;
+    text-shadow: 2px 2px red;
+    padding:5px 0 0 0 ;
+    border: 20px solid red;
+    
 
-    .padding1 {
-        padding: 0 0 0 90%;
-        border-style: dotted;
-        border-color:black;
-        margin-bottom: 10px;
-    }
-    .padding2 {
-        padding: 0 50% 0 50%;
-        border-style: dotted;
-        border-color: black;
-        margin-bottom: 10px;
-    }
-    .padding3 {
-        padding: 0 90% 0 0;
-        border-style: dotted;
-        border-color: black;
-        margin-bottom:10px ;
-    }
-    .padding4 {
-        padding: 0 90% 5px  0;
-        border-style: dotted;
-        border-color: black;
-        color: black;
-        margin-bottom: 10px;
-    }
-.padding5 {
-    padding: 5px 90% 0 0;
-    border-style: dotted;
-    border-color: black;
-    margin-bottom: 10px;
-}
-.padding6 {
-    padding: 0 5px 0 5px;
-    border-style: dotted;
-    border-color: black;
-
-}
 .border-style1{
     border-style: dotted;
     border-width: 20px 5px 2px 1px;
